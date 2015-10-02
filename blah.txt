@@ -2,3 +2,4 @@ first commit!
 second commit!
 third commit!
 topic B first commit!
+topic B second commit!
